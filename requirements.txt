@@ -1,6 +1,8 @@
-streamlit  
-pandas
-seaborn 
-matplotlib
-sklearn.linear_model  
-sklearn.model_selection  
+streamlit==1.32.0
+pandas==2.1.4
+seaborn==0.13.1
+matplotlib==3.8.2
+scikit-learn==1.3.2
+numpy==1.26.2
+python-dateutil==2.8.2
+tzdata==2023.4
