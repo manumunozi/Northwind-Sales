@@ -1,0 +1,6 @@
+streamlit  
+pandas
+seaborn 
+matplotlib
+sklearn.linear_model  
+sklearn.model_selection  
